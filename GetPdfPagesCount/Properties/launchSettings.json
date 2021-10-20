@@ -2,7 +2,7 @@
   "profiles": {
     "GetPdfPagesCount": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\yehuda_da\\Desktop\\testPDF_testPDF_merged.pdf C:\\Users\\yehuda_da\\Desktop\\RESULT.txt"
+      "commandLineArgs": "C:\\Users\\yehuda_da\\Desktop\\pdf_test_no_validations.pdf C:\\Users\\yehuda_da\\Desktop\\RESULT.txt"
     }
   }
 }
